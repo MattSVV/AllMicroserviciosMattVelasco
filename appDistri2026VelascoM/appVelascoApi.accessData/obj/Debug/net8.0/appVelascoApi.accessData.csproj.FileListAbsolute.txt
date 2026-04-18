@@ -1,0 +1,15 @@
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoApi.accessData\bin\Debug\net8.0\appVelascoApi.accessData.deps.json
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoApi.accessData\bin\Debug\net8.0\appVelascoApi.accessData.dll
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoApi.accessData\bin\Debug\net8.0\appVelascoApi.accessData.pdb
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoApi.accessData\bin\Debug\net8.0\appVelascoEntitys.dll
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoApi.accessData\bin\Debug\net8.0\appVelascoEntitys.pdb
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoApi.accessData\obj\Debug\net8.0\appVelascoApi.accessData.csproj.AssemblyReference.cache
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoApi.accessData\obj\Debug\net8.0\appVelascoApi.accessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoApi.accessData\obj\Debug\net8.0\appVelascoApi.accessData.AssemblyInfoInputs.cache
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoApi.accessData\obj\Debug\net8.0\appVelascoApi.accessData.AssemblyInfo.cs
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoApi.accessData\obj\Debug\net8.0\appVelascoApi.accessData.csproj.CoreCompileInputs.cache
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoApi.accessData\obj\Debug\net8.0\appVelas.6AD9BAE8.Up2Date
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoApi.accessData\obj\Debug\net8.0\appVelascoApi.accessData.dll
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoApi.accessData\obj\Debug\net8.0\refint\appVelascoApi.accessData.dll
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoApi.accessData\obj\Debug\net8.0\appVelascoApi.accessData.pdb
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoApi.accessData\obj\Debug\net8.0\ref\appVelascoApi.accessData.dll

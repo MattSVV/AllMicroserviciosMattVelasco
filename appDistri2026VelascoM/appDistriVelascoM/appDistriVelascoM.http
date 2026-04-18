@@ -1,0 +1,6 @@
+@appDistriVelascoM_HostAddress = http://localhost:5244
+
+GET {{appDistriVelascoM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

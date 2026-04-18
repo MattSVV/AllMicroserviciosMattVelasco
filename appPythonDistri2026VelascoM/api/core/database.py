@@ -1,0 +1,16 @@
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker, declarative_base
+
+from api.core.config import settings
+
+engine = create_engine(settings.DATABASE_URL, echo=False)
+
+SessionLocal = sessionmaker(bind=engine, autocommit=False, autoflush=False)
+
+Base = declarative_base()
+
+
+class Database:
+
+    def get_session(self):
+        return SessionLocal()

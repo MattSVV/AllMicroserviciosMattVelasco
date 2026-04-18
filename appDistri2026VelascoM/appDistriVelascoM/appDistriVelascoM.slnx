@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../appVelascoApi.accessData/appVelascoApi.accessData.csproj" Id="b1d2930c-7599-410e-9845-73a25b8e8697" />
+  <Project Path="../appVelascoDTOs/appVelascoDTOs.csproj" Id="e23d3084-79d6-4bdf-9df7-2c0485b76bd6" />
+  <Project Path="../appVelascoEntitys/appVelascoEntitys.csproj" Id="0e40fc8e-def6-49a5-9195-29b701e76b8c" />
+  <Project Path="../appVelascoServices/appVelascoServices.csproj" Id="b0dbffa1-c8fc-4387-b6c4-607bbfc410ce" />
+  <Project Path="appDistriVelascoM.csproj" />
+</Solution>

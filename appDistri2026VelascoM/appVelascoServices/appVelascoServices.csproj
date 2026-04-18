@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="8.0.3" />
+    <PackageReference Include="RabbitMQ.Client" Version="7.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\appVelascoDTOs\appVelascoDTOs.csproj" />
+    <ProjectReference Include="..\appVelascoEntitys\appVelascoEntitys.csproj" />
+	  <ProjectReference Include="..\appVelascoApi.accessData\appVelascoApi.accessData.csproj" />
+  </ItemGroup>
+
+</Project>

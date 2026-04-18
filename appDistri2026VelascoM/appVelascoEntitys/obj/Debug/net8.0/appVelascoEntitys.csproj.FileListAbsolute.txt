@@ -1,0 +1,11 @@
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoEntitys\bin\Debug\net8.0\appVelascoEntitys.deps.json
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoEntitys\bin\Debug\net8.0\appVelascoEntitys.dll
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoEntitys\bin\Debug\net8.0\appVelascoEntitys.pdb
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoEntitys\obj\Debug\net8.0\appVelascoEntitys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoEntitys\obj\Debug\net8.0\appVelascoEntitys.AssemblyInfoInputs.cache
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoEntitys\obj\Debug\net8.0\appVelascoEntitys.AssemblyInfo.cs
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoEntitys\obj\Debug\net8.0\appVelascoEntitys.csproj.CoreCompileInputs.cache
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoEntitys\obj\Debug\net8.0\appVelascoEntitys.dll
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoEntitys\obj\Debug\net8.0\refint\appVelascoEntitys.dll
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoEntitys\obj\Debug\net8.0\appVelascoEntitys.pdb
+C:\Users\Mateo Velasco\Documents\AppDistriVelascoM\codeSource\appDistri2026VelascoM\appVelascoEntitys\obj\Debug\net8.0\ref\appVelascoEntitys.dll
